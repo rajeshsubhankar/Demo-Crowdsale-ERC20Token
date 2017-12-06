@@ -27,5 +27,6 @@ install:
 
 
 script:
-  - ganache-cli &
   - truffle compile
+  - ganache-cli &
+  - truffle migrate --network development --reset
