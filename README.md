@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/cdnjs/v/jquery.svg)]()
+[![npm](https://img.shields.io/npm/v/npm.svg)]()
 [![node](https://img.shields.io/node/v/passport.svg)]()
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
 
