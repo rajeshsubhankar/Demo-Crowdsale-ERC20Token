@@ -1,3 +1,8 @@
+[![npm](https://img.shields.io/cdnjs/v/jquery.svg)]()
+[![node](https://img.shields.io/node/v/passport.svg)]()
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+
+
 # Demo-Crowdsale-ERC20Token
 
 A quick truffle based DApp to showcase standard ERC20 token creation and crowd sale.
