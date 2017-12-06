@@ -8,6 +8,11 @@ Download or clone the repo to your local machine. Check for any missing dependen
 
 ### Prerequisites
 
+Install **Truffle-Framework**.
+```
+npm install -g truffle
+```
+
 Get your **access token** from [INFURA](https://infura.io/). Configure the tokwn in **Truffle.js** file.
 
 Install **MetaMask** in chrome and create few accounts preferably by connecting to **Ropsten** test network. 
