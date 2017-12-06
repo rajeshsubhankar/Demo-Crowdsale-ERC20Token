@@ -1,7 +1,7 @@
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
 [![node](https://img.shields.io/node/v/passport.svg)]()
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
-
+[![Build Status](https://travis-ci.org/rajeshsubhankar/Demo-Crowdsale-ERC20Token.svg?branch=master)](https://travis-ci.org/rajeshsubhankar/Demo-Crowdsale-ERC20Token)
 
 # Demo-Crowdsale-ERC20Token
 
